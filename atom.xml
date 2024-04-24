@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liangcongs.github.io/blog/</id>
+    <title>由心随笔</title>
+    <updated>2024-04-24T11:18:55.778Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liangcongs.github.io/blog/"/>
+    <link rel="self" href="https://liangcongs.github.io/blog/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://liangcongs.github.io/blog/images/avatar.png</logo>
+    <icon>https://liangcongs.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2024, 由心随笔</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://liangcongs.github.io/blog/post/ce-shi/</id>
+        <link href="https://liangcongs.github.io/blog/post/ce-shi/">
+        </link>
+        <updated>2024-04-24T06:42:25.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>这是一个测试</p>
+]]></content>
+    </entry>
+</feed>
